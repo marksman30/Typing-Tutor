@@ -1,0 +1,24 @@
+
+A good typing speed is one of the pre-requisites for a good software devoloper.
+Therefore this program aims to devolop the user's speed and accuracy while typing.
+It provides two modes: typing tutor and story mode.
+
+TYPING TUTOR:
+    A sentence(in white) is displayed on the screen and the user has to type it out as fast as possible.
+    Typing a wrong character will lead to beep sound with and the cursor is automatically set back(DO NOT PRESS BACK SPACE).
+    The text turns green as you type the right character and red is you typre it wrong.
+    You speed and WPM is displayed at the end.
+    Have fun!
+
+
+
+STORY MODE:
+    So you found the basic typing test programm too cliche` and boring?
+    No worries, the story mode is more interesting way to improve  your typing skills.
+    The plot will be briefed once you enter the this mode and the rules of the game are simple.
+        -There are exchange of dialouges between the characters and you will have to type the displayed sentence as quickly as possible.
+        -There is time limit for each sentence which decides if your attack is successful or not,
+        -In case of a loss, a life will be deducted, and ofcourse you don't have unlimited lives :)
+        -Try not to die, as your fingers will carry your fate.
+    Good luck!
+
